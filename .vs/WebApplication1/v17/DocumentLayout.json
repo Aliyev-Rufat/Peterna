@@ -1,0 +1,527 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.12\\desktop\\imtahan_ab105\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.12\\desktop\\imtahan_ab105\\webapplication1\\webapplication1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.12\\desktop\\imtahan_ab105\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.12\\desktop\\imtahan_ab105\\webapplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.12\\desktop\\imtahan_ab105\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.12\\desktop\\imtahan_ab105\\webapplication1\\webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.12\\desktop\\imtahan_ab105\\webapplication1\\webapplication1\\viewmodel\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewmodel\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.12\\desktop\\imtahan_ab105\\webapplication1\\webapplication1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.12\\desktop\\imtahan_ab105\\webapplication1\\webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.12\\desktop\\imtahan_ab105\\webapplication1\\webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.12\\desktop\\imtahan_ab105\\webapplication1\\webapplication1\\viewmodel\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewmodel\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.12\\desktop\\imtahan_ab105\\webapplication1\\webapplication1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.12\\desktop\\imtahan_ab105\\webapplication1\\webapplication1\\viewmodel\\slider\\updateslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewmodel\\slider\\updateslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.12\\desktop\\imtahan_ab105\\webapplication1\\webapplication1\\viewmodel\\slider\\createslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewmodel\\slider\\createslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.12\\desktop\\imtahan_ab105\\webapplication1\\webapplication1\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.12\\desktop\\imtahan_ab105\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.12\\desktop\\imtahan_ab105\\webapplication1\\webapplication1\\helpers\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\helpers\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.12\\desktop\\imtahan_ab105\\webapplication1\\webapplication1\\migrations\\20240524054259_createpeterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240524054259_createpeterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.12\\desktop\\imtahan_ab105\\webapplication1\\webapplication1\\areas\\manage\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\manage\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.12\\desktop\\imtahan_ab105\\webapplication1\\webapplication1\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.12\\desktop\\imtahan_ab105\\webapplication1\\webapplication1\\areas\\manage\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\manage\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.12\\desktop\\imtahan_ab105\\webapplication1\\webapplication1\\areas\\manage\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\manage\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.12\\desktop\\imtahan_ab105\\webapplication1\\webapplication1\\areas\\manage\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\manage\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.12\\desktop\\imtahan_ab105\\webapplication1\\webapplication1\\areas\\manage\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\manage\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.12\\desktop\\imtahan_ab105\\webapplication1\\webapplication1\\areas\\manage\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\manage\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.12\\desktop\\imtahan_ab105\\webapplication1\\webapplication1\\areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.12\\desktop\\imtahan_ab105\\webapplication1\\webapplication1\\areas\\manage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\manage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.12\\desktop\\imtahan_ab105\\webapplication1\\webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.12\\desktop\\imtahan_ab105\\webapplication1\\webapplication1\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.12\\desktop\\imtahan_ab105\\webapplication1\\webapplication1\\migrations\\20240524074723_createlogin1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240524074723_createlogin1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.12\\desktop\\imtahan_ab105\\webapplication1\\webapplication1\\migrations\\20240524070945_createlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9D2E37-D314-4B53-8D40-309CF223871D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240524070945_createlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T06:47:28.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:22:15.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:33:02.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "WebApplication1\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "WebApplication1\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-24T04:37:46.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T04:33:17.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T07:50:57.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240524074723_CreateLogin1.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Migrations\\20240524074723_CreateLogin1.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240524074723_CreateLogin1.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Migrations\\20240524074723_CreateLogin1.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240524074723_CreateLogin1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:47:23.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginVm.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\ViewModel\\Account\\LoginVm.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ViewModel\\Account\\LoginVm.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\ViewModel\\Account\\LoginVm.cs",
+              "RelativeToolTip": "WebApplication1\\ViewModel\\Account\\LoginVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:13:52.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterVm.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\ViewModel\\Account\\RegisterVm.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ViewModel\\Account\\RegisterVm.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\ViewModel\\Account\\RegisterVm.cs",
+              "RelativeToolTip": "WebApplication1\\ViewModel\\Account\\RegisterVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:01:36.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAmwCYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:01:01.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:22:15.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T06:46:31.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateSliderVm.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\ViewModel\\Slider\\UpdateSliderVm.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ViewModel\\Slider\\UpdateSliderVm.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\ViewModel\\Slider\\UpdateSliderVm.cs",
+              "RelativeToolTip": "WebApplication1\\ViewModel\\Slider\\UpdateSliderVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:20:39.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateSliderVm.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\ViewModel\\Slider\\CreateSliderVm.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ViewModel\\Slider\\CreateSliderVm.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\ViewModel\\Slider\\CreateSliderVm.cs",
+              "RelativeToolTip": "WebApplication1\\ViewModel\\Slider\\CreateSliderVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:20:30.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Models\\Slider.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Slider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:26:45.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:25:10.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Helpers\\UserRole.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Helpers\\UserRole.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Helpers\\UserRole.cs",
+              "RelativeToolTip": "WebApplication1\\Helpers\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:17:48.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Models\\User.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:30:32.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240524070945_CreateLogin.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Migrations\\20240524070945_CreateLogin.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240524070945_CreateLogin.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Migrations\\20240524070945_CreateLogin.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240524070945_CreateLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:09:45.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240524054259_CreatePeterna.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Migrations\\20240524054259_CreatePeterna.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240524054259_CreatePeterna.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Migrations\\20240524054259_CreatePeterna.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240524054259_CreatePeterna.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:42:59.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:38:48.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Areas\\Manage\\Views\\Slider\\Update.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Manage\\Views\\Slider\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Areas\\Manage\\Views\\Slider\\Update.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Manage\\Views\\Slider\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:46:10.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Areas\\Manage\\Views\\Slider\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Manage\\Views\\Slider\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Areas\\Manage\\Views\\Slider\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Manage\\Views\\Slider\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:55:21.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:39:11.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAPkAAAAAAAAAAAAAwDQBAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:43:57.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Areas\\Manage\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Manage\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Areas\\Manage\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Manage\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:45:56.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Areas\\Manage\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Manage\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Areas\\Manage\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\Manage\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:45:46.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Areas\\Manage\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Manage\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Areas\\Manage\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\Manage\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:38:31.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:38:58.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:25:07.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ca.r214.12\\Desktop\\imtahan_ab105\\WebApplication1\\WebApplication1\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:25:56.68Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
